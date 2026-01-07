@@ -17,6 +17,8 @@
 
 = Tufted 博客模板
 
+知识模板，高中物理
+
 这是一个基于 #link("https://typst.app/")[Typst] 和 #link("https://github.com/vsheg/tufted")[Tufted] 的静态网站构建模板，手把手教你搭建简洁、美观的个人博客、作品集和简历设计。
 
 #figure(caption: "网站示例")[#image("imgs/devices.webp")]
